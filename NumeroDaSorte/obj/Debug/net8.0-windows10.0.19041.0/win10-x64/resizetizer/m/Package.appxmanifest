@@ -3,9 +3,9 @@
   <Identity Name="com.companyname.numerodasorte" Publisher="CN=User Name" Version="1.0.0.1" />
   <mp:PhoneIdentity PhoneProductId="A9EF309F-D708-4F28-847E-DC72C7A3614B" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
   <Properties>
-    <DisplayName>NumeroDaSorte</DisplayName>
+    <DisplayName>Número Da Sorte</DisplayName>
     <PublisherDisplayName>User Name</PublisherDisplayName>
-    <Logo>appiconStoreLogo.png</Logo>
+    <Logo>appicon_copyStoreLogo.png</Logo>
   </Properties>
   <Dependencies>
     <TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.17763.0" MaxVersionTested="10.0.19041.0" />
@@ -16,8 +16,8 @@
   </Resources>
   <Applications>
     <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="$targetentrypoint$">
-      <uap:VisualElements DisplayName="NumeroDaSorte" Description="NumeroDaSorte" Square150x150Logo="appiconMediumTile.png" Square44x44Logo="appiconLogo.png" BackgroundColor="transparent">
-        <uap:DefaultTile Square71x71Logo="appiconSmallTile.png" Wide310x150Logo="appiconWideTile.png" Square310x310Logo="appiconLargeTile.png" ShortName="NumeroDaSorte">
+      <uap:VisualElements DisplayName="Número Da Sorte" Description="Número Da Sorte" Square150x150Logo="appicon_copyMediumTile.png" Square44x44Logo="appicon_copyLogo.png" BackgroundColor="transparent">
+        <uap:DefaultTile Square71x71Logo="appicon_copySmallTile.png" Wide310x150Logo="appicon_copyWideTile.png" Square310x310Logo="appicon_copyLargeTile.png" ShortName="Número Da Sorte">
           <uap:ShowNameOnTiles>
             <uap:ShowOn Tile="square150x150Logo" />
             <uap:ShowOn Tile="wide310x150Logo" />
