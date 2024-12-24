@@ -17,6 +17,7 @@ namespace NumeroDaSorte
 
 #if DEBUG
     		builder.Logging.AddDebug();
+            
 #endif
 
             return builder.Build();

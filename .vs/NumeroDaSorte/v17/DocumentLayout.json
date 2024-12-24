@@ -1,12 +1,54 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\alici\\Documents\\csharp\\NumeroDaSorte\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7645922A-6C6F-4E00-8892-FE119751D28E}|NumeroDaSorte\\NumeroDaSorte.csproj|c:\\users\\alici\\documents\\csharp\\numerodasorte\\numerodasorte\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7645922A-6C6F-4E00-8892-FE119751D28E}|NumeroDaSorte\\NumeroDaSorte.csproj|solutionrelative:numerodasorte\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7645922A-6C6F-4E00-8892-FE119751D28E}|NumeroDaSorte\\NumeroDaSorte.csproj|c:\\users\\alici\\documents\\csharp\\numerodasorte\\numerodasorte\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7645922A-6C6F-4E00-8892-FE119751D28E}|NumeroDaSorte\\NumeroDaSorte.csproj|solutionrelative:numerodasorte\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\alici\\Documents\\csharp\\NumeroDaSorte\\NumeroDaSorte\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "NumeroDaSorte\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\alici\\Documents\\csharp\\NumeroDaSorte\\NumeroDaSorte\\MainPage.xaml.cs",
+              "RelativeToolTip": "NumeroDaSorte\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T02:33:47.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\alici\\Documents\\csharp\\NumeroDaSorte\\NumeroDaSorte\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "NumeroDaSorte\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\alici\\Documents\\csharp\\NumeroDaSorte\\NumeroDaSorte\\MauiProgram.cs",
+              "RelativeToolTip": "NumeroDaSorte\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T02:32:56.311Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
