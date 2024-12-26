@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NumeroDaSorte")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+74b1469bc818ca6f96dd87983d27e6ed1344976d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+41c5964a77b199dbe2e1e74fcbcf5c9655b6ee58")]
 [assembly: System.Reflection.AssemblyProductAttribute("NumeroDaSorte")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NumeroDaSorte")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

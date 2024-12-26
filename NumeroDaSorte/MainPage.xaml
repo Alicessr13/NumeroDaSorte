@@ -4,19 +4,21 @@
     xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
     <ScrollView>
-        <VerticalStackLayout HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand">
+        <VerticalStackLayout VerticalOptions="CenterAndExpand">
             <Image
                 HeightRequest="115"
                 Source="logo_green.png"
                 WidthRequest="74" />
             <Label
+                x:Name="NameApp"
                 Margin="0,20,0,120"
                 HorizontalOptions="Center"
+                IsVisible="True"
                 Text="Número da sorte"
                 TextColor="#00AB37"
                 VerticalOptions="Center" />
 
-            <VerticalStackLayout IsVisible="False">
+            <VerticalStackLayout x:Name="ContainerLuckNumbers" IsVisible="False">
 
                 <Label
                     Margin="0,20,0,0"
@@ -29,62 +31,68 @@
                     Spacing="5">
 
                     <Border
-                        Padding="10,5,6,5"
+                        Padding="10,5"
                         Stroke="#00ab37"
                         StrokeShape="RoundRectangle 10">
                         <Label
+                            x:Name="LuckNumber01"
                             FontSize="24"
-                            Text="01"
+                            Text=""
                             TextColor="#00AB37" />
                     </Border>
 
                     <Border
-                        Padding="10,5,6,5"
+                        Padding="10,5"
                         Stroke="#00ab37"
                         StrokeShape="RoundRectangle 10">
                         <Label
+                            x:Name="LuckNumber02"
                             FontSize="24"
-                            Text="01"
+                            Text=""
                             TextColor="#00AB37" />
                     </Border>
 
                     <Border
-                        Padding="10,5,6,5"
+                        Padding="10,5"
                         Stroke="#00ab37"
                         StrokeShape="RoundRectangle 10">
                         <Label
+                            x:Name="LuckNumber03"
                             FontSize="24"
-                            Text="01"
+                            Text=""
                             TextColor="#00AB37" />
                     </Border>
 
                     <Border
-                        Padding="10,5,6,5"
+                        Padding="10,5"
                         Stroke="#00ab37"
                         StrokeShape="RoundRectangle 10">
                         <Label
+                            x:Name="LuckNumber04"
                             FontSize="24"
-                            Text="01"
+                            Text=""
                             TextColor="#00AB37" />
                     </Border>
 
                     <Border
-                        Padding="10,5,6,5"
+                        Padding="10,5"
                         Stroke="#00ab37"
                         StrokeShape="RoundRectangle 10">
                         <Label
+                            x:Name="LuckNumber05"
                             FontSize="24"
-                            Text="01"
+                            Text=""
                             TextColor="#00AB37" />
                     </Border>
 
                     <Border
-                        Padding="10,5,6,5"
+                        Padding="10,5"
                         Stroke="#00ab37"
                         StrokeShape="RoundRectangle 10">
                         <Label
+                            x:Name="LuckNumber06"
                             FontSize="24"
-                            Text="01"
+                            Text=""
                             TextColor="#00AB37" />
                     </Border>
 
@@ -97,7 +105,10 @@
 
             </VerticalStackLayout>
 
-            <Button HorizontalOptions="Center" Text="Gerar número da sorte" />
+            <Button
+                Clicked="OnGenerateLuckNumbers"
+                HorizontalOptions="Center"
+                Text="Gerar número da sorte" />
         </VerticalStackLayout>
     </ScrollView>
 </ContentPage>
