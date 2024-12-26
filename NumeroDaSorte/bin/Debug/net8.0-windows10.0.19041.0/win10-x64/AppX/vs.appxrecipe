@@ -30,13 +30,13 @@
     <AppXManifest Include="C:\Users\alici\Documents\csharp\NumeroDaSorte\NumeroDaSorte\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-12-26T01:30:44.382</Modified>
+      <Modified>2024-12-26T19:09:26.440</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\alici\Documents\csharp\NumeroDaSorte\NumeroDaSorte\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-12-26T01:30:44.290</Modified>
+      <Modified>2024-12-26T19:09:26.236</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alici\Documents\csharp\NumeroDaSorte\NumeroDaSorte\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\NumeroDaSorte.runtimeconfig.json">
       <PackagePath>NumeroDaSorte.runtimeconfig.json</PackagePath>
@@ -44,11 +44,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alici\Documents\csharp\NumeroDaSorte\NumeroDaSorte\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\NumeroDaSorte.dll">
       <PackagePath>NumeroDaSorte.dll</PackagePath>
-      <Modified>2024-12-26T01:30:43.993</Modified>
+      <Modified>2024-12-26T19:09:25.166</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alici\Documents\csharp\NumeroDaSorte\NumeroDaSorte\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>NumeroDaSorte.exe</PackagePath>
-      <Modified>2024-12-26T01:30:43.996</Modified>
+      <Modified>2024-12-26T19:09:25.210</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alici\Documents\csharp\NumeroDaSorte\NumeroDaSorte\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -84,211 +84,195 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alici\Documents\csharp\NumeroDaSorte\NumeroDaSorte\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon_copy.ico">
       <PackagePath>appicon_copy.ico</PackagePath>
-      <Modified>2024-12-26T01:14:57.182</Modified>
+      <Modified>2024-12-26T19:09:12.278</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alici\Documents\csharp\NumeroDaSorte\NumeroDaSorte\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon_copyLargeTile.scale-100.png">
       <PackagePath>appicon_copyLargeTile.scale-100.png</PackagePath>
-      <Modified>2024-12-26T01:14:57.175</Modified>
+      <Modified>2024-12-26T19:09:12.272</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alici\Documents\csharp\NumeroDaSorte\NumeroDaSorte\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon_copyLargeTile.scale-125.png">
       <PackagePath>appicon_copyLargeTile.scale-125.png</PackagePath>
-      <Modified>2024-12-26T01:14:57.174</Modified>
+      <Modified>2024-12-26T19:09:12.272</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alici\Documents\csharp\NumeroDaSorte\NumeroDaSorte\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon_copyLargeTile.scale-150.png">
       <PackagePath>appicon_copyLargeTile.scale-150.png</PackagePath>
-      <Modified>2024-12-26T01:14:57.174</Modified>
+      <Modified>2024-12-26T19:09:12.272</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alici\Documents\csharp\NumeroDaSorte\NumeroDaSorte\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon_copyLargeTile.scale-200.png">
       <PackagePath>appicon_copyLargeTile.scale-200.png</PackagePath>
-      <Modified>2024-12-26T01:14:57.174</Modified>
+      <Modified>2024-12-26T19:09:12.272</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alici\Documents\csharp\NumeroDaSorte\NumeroDaSorte\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon_copyLargeTile.scale-400.png">
       <PackagePath>appicon_copyLargeTile.scale-400.png</PackagePath>
-      <Modified>2024-12-26T01:14:57.174</Modified>
+      <Modified>2024-12-26T19:09:12.272</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alici\Documents\csharp\NumeroDaSorte\NumeroDaSorte\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon_copyLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appicon_copyLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2024-12-26T01:14:57.179</Modified>
+      <Modified>2024-12-26T19:09:12.276</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alici\Documents\csharp\NumeroDaSorte\NumeroDaSorte\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon_copyLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appicon_copyLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2024-12-26T01:14:57.179</Modified>
+      <Modified>2024-12-26T19:09:12.276</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alici\Documents\csharp\NumeroDaSorte\NumeroDaSorte\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon_copyLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appicon_copyLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2024-12-26T01:14:57.179</Modified>
+      <Modified>2024-12-26T19:09:12.275</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alici\Documents\csharp\NumeroDaSorte\NumeroDaSorte\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon_copyLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appicon_copyLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2024-12-26T01:14:57.179</Modified>
+      <Modified>2024-12-26T19:09:12.276</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alici\Documents\csharp\NumeroDaSorte\NumeroDaSorte\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon_copyLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appicon_copyLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2024-12-26T01:14:57.179</Modified>
+      <Modified>2024-12-26T19:09:12.276</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alici\Documents\csharp\NumeroDaSorte\NumeroDaSorte\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon_copyLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appicon_copyLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2024-12-26T01:14:57.180</Modified>
+      <Modified>2024-12-26T19:09:12.277</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alici\Documents\csharp\NumeroDaSorte\NumeroDaSorte\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon_copyLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appicon_copyLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2024-12-26T01:14:57.180</Modified>
+      <Modified>2024-12-26T19:09:12.276</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alici\Documents\csharp\NumeroDaSorte\NumeroDaSorte\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon_copyLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appicon_copyLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2024-12-26T01:14:57.180</Modified>
+      <Modified>2024-12-26T19:09:12.276</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alici\Documents\csharp\NumeroDaSorte\NumeroDaSorte\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon_copyLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appicon_copyLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2024-12-26T01:14:57.180</Modified>
+      <Modified>2024-12-26T19:09:12.276</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alici\Documents\csharp\NumeroDaSorte\NumeroDaSorte\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon_copyLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appicon_copyLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2024-12-26T01:14:57.180</Modified>
+      <Modified>2024-12-26T19:09:12.276</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alici\Documents\csharp\NumeroDaSorte\NumeroDaSorte\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon_copyLogo.scale-100.png">
       <PackagePath>appicon_copyLogo.scale-100.png</PackagePath>
-      <Modified>2024-12-26T01:14:57.182</Modified>
+      <Modified>2024-12-26T19:09:12.278</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alici\Documents\csharp\NumeroDaSorte\NumeroDaSorte\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon_copyLogo.scale-125.png">
       <PackagePath>appicon_copyLogo.scale-125.png</PackagePath>
-      <Modified>2024-12-26T01:14:57.182</Modified>
+      <Modified>2024-12-26T19:09:12.278</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alici\Documents\csharp\NumeroDaSorte\NumeroDaSorte\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon_copyLogo.scale-150.png">
       <PackagePath>appicon_copyLogo.scale-150.png</PackagePath>
-      <Modified>2024-12-26T01:14:57.182</Modified>
+      <Modified>2024-12-26T19:09:12.278</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alici\Documents\csharp\NumeroDaSorte\NumeroDaSorte\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon_copyLogo.scale-200.png">
       <PackagePath>appicon_copyLogo.scale-200.png</PackagePath>
-      <Modified>2024-12-26T01:14:57.182</Modified>
+      <Modified>2024-12-26T19:09:12.277</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alici\Documents\csharp\NumeroDaSorte\NumeroDaSorte\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon_copyLogo.scale-400.png">
       <PackagePath>appicon_copyLogo.scale-400.png</PackagePath>
-      <Modified>2024-12-26T01:14:57.181</Modified>
+      <Modified>2024-12-26T19:09:12.277</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alici\Documents\csharp\NumeroDaSorte\NumeroDaSorte\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon_copyLogo.targetsize-16.png">
       <PackagePath>appicon_copyLogo.targetsize-16.png</PackagePath>
-      <Modified>2024-12-26T01:14:57.181</Modified>
+      <Modified>2024-12-26T19:09:12.277</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alici\Documents\csharp\NumeroDaSorte\NumeroDaSorte\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon_copyLogo.targetsize-24.png">
       <PackagePath>appicon_copyLogo.targetsize-24.png</PackagePath>
-      <Modified>2024-12-26T01:14:57.181</Modified>
+      <Modified>2024-12-26T19:09:12.277</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alici\Documents\csharp\NumeroDaSorte\NumeroDaSorte\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon_copyLogo.targetsize-256.png">
       <PackagePath>appicon_copyLogo.targetsize-256.png</PackagePath>
-      <Modified>2024-12-26T01:14:57.180</Modified>
+      <Modified>2024-12-26T19:09:12.277</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alici\Documents\csharp\NumeroDaSorte\NumeroDaSorte\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon_copyLogo.targetsize-32.png">
       <PackagePath>appicon_copyLogo.targetsize-32.png</PackagePath>
-      <Modified>2024-12-26T01:14:57.181</Modified>
+      <Modified>2024-12-26T19:09:12.277</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alici\Documents\csharp\NumeroDaSorte\NumeroDaSorte\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon_copyLogo.targetsize-48.png">
       <PackagePath>appicon_copyLogo.targetsize-48.png</PackagePath>
-      <Modified>2024-12-26T01:14:57.180</Modified>
+      <Modified>2024-12-26T19:09:12.277</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alici\Documents\csharp\NumeroDaSorte\NumeroDaSorte\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon_copyMediumTile.scale-100.png">
       <PackagePath>appicon_copyMediumTile.scale-100.png</PackagePath>
-      <Modified>2024-12-26T01:14:57.177</Modified>
+      <Modified>2024-12-26T19:09:12.274</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alici\Documents\csharp\NumeroDaSorte\NumeroDaSorte\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon_copyMediumTile.scale-125.png">
       <PackagePath>appicon_copyMediumTile.scale-125.png</PackagePath>
-      <Modified>2024-12-26T01:14:57.176</Modified>
+      <Modified>2024-12-26T19:09:12.274</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alici\Documents\csharp\NumeroDaSorte\NumeroDaSorte\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon_copyMediumTile.scale-150.png">
       <PackagePath>appicon_copyMediumTile.scale-150.png</PackagePath>
-      <Modified>2024-12-26T01:14:57.176</Modified>
+      <Modified>2024-12-26T19:09:12.274</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alici\Documents\csharp\NumeroDaSorte\NumeroDaSorte\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon_copyMediumTile.scale-200.png">
       <PackagePath>appicon_copyMediumTile.scale-200.png</PackagePath>
-      <Modified>2024-12-26T01:14:57.176</Modified>
+      <Modified>2024-12-26T19:09:12.274</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alici\Documents\csharp\NumeroDaSorte\NumeroDaSorte\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon_copyMediumTile.scale-400.png">
       <PackagePath>appicon_copyMediumTile.scale-400.png</PackagePath>
-      <Modified>2024-12-26T01:14:57.176</Modified>
+      <Modified>2024-12-26T19:09:12.273</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alici\Documents\csharp\NumeroDaSorte\NumeroDaSorte\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon_copySmallTile.scale-100.png">
       <PackagePath>appicon_copySmallTile.scale-100.png</PackagePath>
-      <Modified>2024-12-26T01:14:57.177</Modified>
+      <Modified>2024-12-26T19:09:12.275</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alici\Documents\csharp\NumeroDaSorte\NumeroDaSorte\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon_copySmallTile.scale-125.png">
       <PackagePath>appicon_copySmallTile.scale-125.png</PackagePath>
-      <Modified>2024-12-26T01:14:57.177</Modified>
+      <Modified>2024-12-26T19:09:12.275</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alici\Documents\csharp\NumeroDaSorte\NumeroDaSorte\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon_copySmallTile.scale-150.png">
       <PackagePath>appicon_copySmallTile.scale-150.png</PackagePath>
-      <Modified>2024-12-26T01:14:57.177</Modified>
+      <Modified>2024-12-26T19:09:12.274</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alici\Documents\csharp\NumeroDaSorte\NumeroDaSorte\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon_copySmallTile.scale-200.png">
       <PackagePath>appicon_copySmallTile.scale-200.png</PackagePath>
-      <Modified>2024-12-26T01:14:57.177</Modified>
+      <Modified>2024-12-26T19:09:12.274</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alici\Documents\csharp\NumeroDaSorte\NumeroDaSorte\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon_copySmallTile.scale-400.png">
       <PackagePath>appicon_copySmallTile.scale-400.png</PackagePath>
-      <Modified>2024-12-26T01:14:57.177</Modified>
+      <Modified>2024-12-26T19:09:12.274</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alici\Documents\csharp\NumeroDaSorte\NumeroDaSorte\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon_copyStoreLogo.scale-100.png">
       <PackagePath>appicon_copyStoreLogo.scale-100.png</PackagePath>
-      <Modified>2024-12-26T01:14:57.178</Modified>
+      <Modified>2024-12-26T19:09:12.275</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alici\Documents\csharp\NumeroDaSorte\NumeroDaSorte\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon_copyStoreLogo.scale-125.png">
       <PackagePath>appicon_copyStoreLogo.scale-125.png</PackagePath>
-      <Modified>2024-12-26T01:14:57.178</Modified>
+      <Modified>2024-12-26T19:09:12.275</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alici\Documents\csharp\NumeroDaSorte\NumeroDaSorte\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon_copyStoreLogo.scale-150.png">
       <PackagePath>appicon_copyStoreLogo.scale-150.png</PackagePath>
-      <Modified>2024-12-26T01:14:57.178</Modified>
+      <Modified>2024-12-26T19:09:12.275</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alici\Documents\csharp\NumeroDaSorte\NumeroDaSorte\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon_copyStoreLogo.scale-200.png">
       <PackagePath>appicon_copyStoreLogo.scale-200.png</PackagePath>
-      <Modified>2024-12-26T01:14:57.178</Modified>
+      <Modified>2024-12-26T19:09:12.275</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alici\Documents\csharp\NumeroDaSorte\NumeroDaSorte\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon_copyStoreLogo.scale-400.png">
       <PackagePath>appicon_copyStoreLogo.scale-400.png</PackagePath>
-      <Modified>2024-12-26T01:14:57.178</Modified>
+      <Modified>2024-12-26T19:09:12.275</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alici\Documents\csharp\NumeroDaSorte\NumeroDaSorte\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon_copyWideTile.scale-100.png">
       <PackagePath>appicon_copyWideTile.scale-100.png</PackagePath>
-      <Modified>2024-12-26T01:14:57.176</Modified>
+      <Modified>2024-12-26T19:09:12.273</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alici\Documents\csharp\NumeroDaSorte\NumeroDaSorte\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon_copyWideTile.scale-125.png">
       <PackagePath>appicon_copyWideTile.scale-125.png</PackagePath>
-      <Modified>2024-12-26T01:14:57.175</Modified>
+      <Modified>2024-12-26T19:09:12.273</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alici\Documents\csharp\NumeroDaSorte\NumeroDaSorte\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon_copyWideTile.scale-150.png">
       <PackagePath>appicon_copyWideTile.scale-150.png</PackagePath>
-      <Modified>2024-12-26T01:14:57.175</Modified>
+      <Modified>2024-12-26T19:09:12.273</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alici\Documents\csharp\NumeroDaSorte\NumeroDaSorte\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon_copyWideTile.scale-200.png">
       <PackagePath>appicon_copyWideTile.scale-200.png</PackagePath>
-      <Modified>2024-12-26T01:14:57.175</Modified>
+      <Modified>2024-12-26T19:09:12.273</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alici\Documents\csharp\NumeroDaSorte\NumeroDaSorte\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon_copyWideTile.scale-400.png">
       <PackagePath>appicon_copyWideTile.scale-400.png</PackagePath>
-      <Modified>2024-12-26T01:14:57.175</Modified>
+      <Modified>2024-12-26T19:09:12.273</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\alici\Documents\csharp\NumeroDaSorte\NumeroDaSorte\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
-      <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2024-12-26T01:14:57.183</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\alici\Documents\csharp\NumeroDaSorte\NumeroDaSorte\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
-      <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2024-12-26T01:14:57.183</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\alici\Documents\csharp\NumeroDaSorte\NumeroDaSorte\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
-      <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2024-12-26T01:14:57.183</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\alici\Documents\csharp\NumeroDaSorte\NumeroDaSorte\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
-      <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2024-12-26T01:14:57.183</Modified>
-    </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\alici\Documents\csharp\NumeroDaSorte\NumeroDaSorte\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
-      <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2024-12-26T01:14:57.183</Modified>
+    <AppxPackagedFile Include="C:\Users\alici\Documents\csharp\NumeroDaSorte\NumeroDaSorte\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\logo_green.scale-100.png">
+      <PackagePath>logo_green.scale-100.png</PackagePath>
+      <Modified>2024-12-26T19:09:12.278</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alici\Documents\csharp\NumeroDaSorte\NumeroDaSorte\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\NumeroDaSorte.deps.json">
       <PackagePath>NumeroDaSorte.deps.json</PackagePath>
-      <Modified>2024-12-26T01:30:44.244</Modified>
+      <Modified>2024-12-26T19:09:26.052</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\alici\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.54\lib\net8.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>

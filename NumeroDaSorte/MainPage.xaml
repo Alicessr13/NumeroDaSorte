@@ -3,10 +3,101 @@
     x:Class="NumeroDaSorte.MainPage"
     xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
-    <VerticalStackLayout>
-        <Label
-            HorizontalOptions="Center"
-            Text="Bem vindo ao MAUI"
-            VerticalOptions="Center" />
-    </VerticalStackLayout>
+    <ScrollView>
+        <VerticalStackLayout HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand">
+            <Image
+                HeightRequest="115"
+                Source="logo_green.png"
+                WidthRequest="74" />
+            <Label
+                Margin="0,20,0,120"
+                HorizontalOptions="Center"
+                Text="Número da sorte"
+                TextColor="#00AB37"
+                VerticalOptions="Center" />
+
+            <VerticalStackLayout IsVisible="False">
+
+                <Label
+                    Margin="0,20,0,0"
+                    HorizontalOptions="Center"
+                    Text="O número da sorte é" />
+
+                <HorizontalStackLayout
+                    Margin="0,70"
+                    HorizontalOptions="Center"
+                    Spacing="5">
+
+                    <Border
+                        Padding="10,5,6,5"
+                        Stroke="#00ab37"
+                        StrokeShape="RoundRectangle 10">
+                        <Label
+                            FontSize="24"
+                            Text="01"
+                            TextColor="#00AB37" />
+                    </Border>
+
+                    <Border
+                        Padding="10,5,6,5"
+                        Stroke="#00ab37"
+                        StrokeShape="RoundRectangle 10">
+                        <Label
+                            FontSize="24"
+                            Text="01"
+                            TextColor="#00AB37" />
+                    </Border>
+
+                    <Border
+                        Padding="10,5,6,5"
+                        Stroke="#00ab37"
+                        StrokeShape="RoundRectangle 10">
+                        <Label
+                            FontSize="24"
+                            Text="01"
+                            TextColor="#00AB37" />
+                    </Border>
+
+                    <Border
+                        Padding="10,5,6,5"
+                        Stroke="#00ab37"
+                        StrokeShape="RoundRectangle 10">
+                        <Label
+                            FontSize="24"
+                            Text="01"
+                            TextColor="#00AB37" />
+                    </Border>
+
+                    <Border
+                        Padding="10,5,6,5"
+                        Stroke="#00ab37"
+                        StrokeShape="RoundRectangle 10">
+                        <Label
+                            FontSize="24"
+                            Text="01"
+                            TextColor="#00AB37" />
+                    </Border>
+
+                    <Border
+                        Padding="10,5,6,5"
+                        Stroke="#00ab37"
+                        StrokeShape="RoundRectangle 10">
+                        <Label
+                            FontSize="24"
+                            Text="01"
+                            TextColor="#00AB37" />
+                    </Border>
+
+                </HorizontalStackLayout>
+
+                <Label
+                    Margin="0,0,0,50"
+                    HorizontalOptions="Center"
+                    Text="Boa sorte!" />
+
+            </VerticalStackLayout>
+
+            <Button HorizontalOptions="Center" Text="Gerar número da sorte" />
+        </VerticalStackLayout>
+    </ScrollView>
 </ContentPage>
